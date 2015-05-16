@@ -1,15 +1,15 @@
 # Online-Help-Desk
 Students faculty services project
 
-This project is aimed at developing an Online Help Desk (OHD) for the facilities 
+This project is aimed at developing an Online Help Desk (OHD) for Students and 
 
-in the campus for Students and as well as faculties. This is an Internet based 
+as well as faculties. This is an Internet based application that can be accessed 
 
-application that can be accessed throughout the campus. This system can be used 
+throughout the campus. This system can be used to automate the workflow of service 
 
-to automate the workflow of service requests for the various facilities in the 
+requests for the various facilities in the campus. This is one integrated system 
 
-campus. This is one integrated system that covers different kinds of facilities like:-
+that covers different kinds of facilities like:-
 
 1. Attendance info.
 
